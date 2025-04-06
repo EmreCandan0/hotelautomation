@@ -16,5 +16,5 @@ Normalization has been applied to prevent data redundancy and improve efficiency
 
 #Design and Functionality:
 The frontend design features a modern, efficient structure that supports all CRUD operations while adhering to standard database design principles.
-The database follows all fundamental principles of standard database design and supports all CRUD (Create, Read, Update, Delete) operations with a modern and efficient structure. 
+The database follows all fundamental principles of standard database design and supports all CRUD (Create, Read, Update, Delete) operations with efficient trigger,function and procedure structure. 
 The system ensures seamless performance and has been tested to work without issues.
